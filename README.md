@@ -1,6 +1,8 @@
-<h2 align="center">Hey there!👋 </h1>
+<h1 align="center">Hey there!👋 </h1>
 
 I'm a computer science student who is passionate about writing code, solving problems and making games for fun.
+
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎮 I Make games in Unity Engine
 - 🌱 I’m currently learning C
