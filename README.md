@@ -29,6 +29,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender)
+  ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity&logoColor=007ACC)
 <!--
 **ookii-tsuki/ookii-tsuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
