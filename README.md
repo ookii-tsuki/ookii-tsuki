@@ -1,13 +1,16 @@
 <h1 align="center">Hey there!👋 </h1>
 
-I'm a computer science student who is passionate about writing code, solving problems and making games for fun.
+I'm a student at the University of Duisburg-Essen studying Applied Computer Science. Here, you'll find a mix of my games-related projects and some cool programming experiments.
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎮 I Make games in Unity Engine
-- 🌱 I’m currently learning C
-- 💬 Ask me about Unity and C# stuff
-- 👯 I’m looking forward to collaborate on any Open Source project which I consider interesting or useful
+- 🎮 Indie game developer
+- 👨‍💻 Passionate about coding and problem-solving
+- 🤝 Open to interesting and useful open-source projects
+
+Feel free to check out my projects and drop a star if you like what you see.
+
+Also check out my games on [itch.io](https://ookii-tsuki.itch.io/)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
