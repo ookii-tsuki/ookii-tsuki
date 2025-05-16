@@ -33,6 +33,8 @@ Also check out my games on [itch.io](https://ookii-tsuki.itch.io/)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender)
   ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity&logoColor=007ACC)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ookii-tsuki&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <!--
 **ookii-tsuki/ookii-tsuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
